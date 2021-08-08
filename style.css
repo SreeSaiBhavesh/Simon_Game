@@ -1,0 +1,93 @@
+body{
+    background-color: #011F3F;
+}
+
+.title{
+    font-size: 3.5rem;
+    color:rgb(189, 127, 45);
+    text-align: center;
+    font-family: 'Arvo';
+}
+
+.container{
+    width:40%;
+    margin:auto;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.float-container{
+    position:relative;
+}
+
+.heading{
+    font-size: 5rem;
+    text-align: center;
+    color:blueviolet
+}
+
+.set {
+    outline: none;
+    border: 10px solid #0a0a0a;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 35px;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin: 10px;
+}
+
+.touched {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.link{
+    float: right;
+    color:chocolate;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding-top: 35px;
+    padding-right: 5px;
+}
+  
+.help{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color:darkgoldenrod;
+}
+
+li{
+    font-size: 1.5rem;
+    color:coral;
+}
+
+p{
+    font-size: 1.5rem;
+    color:coral;
+}
